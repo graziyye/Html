@@ -10,6 +10,7 @@ body{
     color: rgb(202, 21, 120);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    font-size: 1.5rem;
 }
 
 footer a{
@@ -34,7 +35,7 @@ h1{
 
 
 #relogio{
-    font-size: 3.5rem;
+    font-size: 4.6rem;
     font-weight: bold;
     margin-top: 10px;
 }
