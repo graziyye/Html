@@ -6,12 +6,16 @@
 
 
 body{
-    margin-top: 140px;
+    margin-top: 120px;
     background-color: rgb(255, 227, 235);
     color: rgb(202, 21, 120);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 1.5rem;
+}
+body p{
+    margin-top: -27px;
+    font-size: 1.2rem;
 }
 
 footer{
@@ -46,4 +50,15 @@ h1{
     font-size: 5rem;
     font-weight: bold;
     margin-top: -25px;
+}
+
+.texto{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto p{
+    font-size: 0.8rem;
+    width: 700px;
 }
