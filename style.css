@@ -25,9 +25,11 @@ body p{
     font-size: 1.2rem;
 }
 
-footer{
+svg{
     margin-top: 60px;
 }
+
+
 
 footer a{
     color: rgb(202, 21, 120);
